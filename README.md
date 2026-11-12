@@ -2,8 +2,6 @@
 <h3 align="center">I’m a network engineer and Linux administrator. I’m getting into DevOps</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mivainer" alt="mivainer" /></a> </p>
-
 - 🔭 I’m currently working on **I'm chilling now**
 
 - 🌱 I’m currently learning **blockchain development**
